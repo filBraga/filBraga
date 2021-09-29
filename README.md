@@ -1,3 +1,5 @@
-- 👋 Hi, I’m @filipebfbraga - Trybe student
-- 👀 I’m interested in software dev
-- 🌱 I’m currently learning git, github, JS, Html, CSS and Python
+Hi, I’m @filipebfbraga - Web Fullstack student in TRYBE.
+
+🎓 Graduate Engineer
+
+Currently learning git, github, JS, Html, CSS and Python!
