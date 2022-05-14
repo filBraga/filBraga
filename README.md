@@ -3,9 +3,9 @@ Hello there, I’m Filipe Braga - Web Fullstack student in TRYBE.
 Software Developer and graduate Engineer. Passionate about coding, engineering and problem solving in general. I live in Belo Horizonte, Minas Gerais - Brazil. Currently learning Git, JavaScript, HTML, CSS, React ( + Redux and Hooks) and Python! Software development in real life, soft skills, agile methodologies. Fullstack Student at TRYBE®!
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filipebfbraga&layout=compact&theme=github_dark)](https://github.com/filipebfbraga/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filbraga&layout=compact&theme=github_dark)](https://github.com/filipebfbraga/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=filipebfbraga&show_icons=true&theme=github_dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=filbraga&show_icons=true&theme=github_dark)
 
 <br>
 
