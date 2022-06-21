@@ -43,26 +43,6 @@
 
 ###
 
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/filBraga/count.svg?"  />
-</div>
-
-
-###
-
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
-
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
-
 # Connect with me <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
 
 <a href="https://www.linkedin.com/in/filipe-braga-437617230/">
