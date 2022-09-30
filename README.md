@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Jr Software Engineer with over 2 years of experience. Passionate about coding, engineering and problem solving in general.<br><br>At Koobing, I am involved in the development of a high performance, adaptative, multi platform frontend solution. Using NextJS / React to minimize bundle sizes to allow the best user experience.<br><br>I live in Belo Horizonte, Minas Gerais - Brazil.</p>
+<p align="left">Jr Software Engineer with over 2 years of experience. Passionate about coding, engineering and problem solving in general.<br><br>I live in Belo Horizonte, Minas Gerais - Brazil.</p>
 
 ###
 
