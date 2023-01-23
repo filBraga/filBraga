@@ -6,12 +6,6 @@
 
 ###
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filbraga&layout=compact&theme=github_dark)](https://github.com/filipebfbraga/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=filbraga&show_icons=true&theme=github_dark)
-
-###
-
 <p align="left"></p>
 
 ###
