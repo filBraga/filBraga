@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Jr Software Engineer with over 2 years of experience. Passionate about coding, engineering and problem solving in general.<br><br>I live in Belo Horizonte, Minas Gerais - Brazil.</p>
+<p align="left">Software Engineer since 2020. Passionate about coding, engineering and problem solving in general.<br><br>I live in Belo Horizonte, Minas Gerais - Brazil.</p>
 
 ###
 
