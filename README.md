@@ -21,7 +21,7 @@
 
 <h3>Architectures</h3>
 <ul>
-  <li>RESTful <em>(Preciso Melhorar)</em></li>
+  <li>RESTful </li>
   <li>Microservices Architecture</li>
 </ul>
 
@@ -55,10 +55,10 @@
   <li>Jenkins</li>
   <li>GitHub Actions</li>
   <li>CI/CD</li>
-  <li>Terraform <em>(Preciso Melhorar)</em></li>
+  <li>Terraform</li>
   <li>Serverless Framework</li>
-  <li>Grafana <em>(Preciso Melhorar)</em></li>
-  <li>Datadog <em>(Preciso Melhorar)</em></li>
+  <li>Grafana</li>
+  <li>Datadog</li>
 </ul>
 
 <h3>Methodologies</h3>
@@ -66,6 +66,6 @@
   <li>Agile</li>
   <li>Scrum</li>
   <li>Kanban</li>
-  <li>DDD <em>(Preciso Melhorar)</em></li>
-  <li>CQRS <em>(Preciso Melhorar)</em></li>
+  <li>DDD</li>
+  <li>CQRS</li>
 </ul>
