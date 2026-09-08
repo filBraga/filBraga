@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Software Engineer. Passionate about coding, engineering and problem solving in general.<br><br>I live in Belo Horizonte, Minas Gerais - Brazil.</p>
+<p align="left">Software Engineer. Passionate about coding, engineering and problem solving in general.</p>
 
 <h2>🚀 Tech Stack</h2>
 
